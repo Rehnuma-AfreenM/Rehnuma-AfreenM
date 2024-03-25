@@ -4,4 +4,4 @@
 - 📫 How to reach me - rehnumaazadkhan@gmail.com
 - Linkedin Profile - www.linkedin.com/in/rehnuma-afreen-472884193
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Love Cats.
+- ⚡ Fun fact: Loves Cats.
