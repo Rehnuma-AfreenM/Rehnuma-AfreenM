@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rehnuma-AfreenM
 - 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Python Frameworks like Django, Flask, Numpy and some others
+- 🌱 I’m currently learning Python Frameworks like Django, Flask, Numpy, pandas and some others
 - 📫 How to reach me - rehnumaazadkhan@gmail.com
 - Linkedin Profile - www.linkedin.com/in/rehnuma-afreen-472884193
 - 😄 Pronouns: She/Her
